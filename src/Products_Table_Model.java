@@ -19,7 +19,7 @@ import oracle.jdbc.pool.OracleDataSource;
 
 /**
  *
- * @author Chetan
+ * @author Omkar
  */
 public class Products_Table_Model extends AbstractTableModel{
 

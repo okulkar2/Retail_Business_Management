@@ -17,7 +17,7 @@ import oracle.jdbc.pool.OracleDataSource;
 
 /**
  *
- * @author Chetan
+ * @author Omkar
  */
 public class Customer_Table_Model extends AbstractTableModel {
 
